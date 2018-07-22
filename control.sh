@@ -5,7 +5,7 @@ cd $WORKSPACE
 
 mkdir -p var
 
-app=ggb-eureka-server
+app=eureka-server
 pidfile=var/app-ontime.pid
 logfile=var/app-ontime.log
 
